@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "571284573687",
+    "firebase_url": "https://maze-project-c716b.firebaseio.com",
+    "project_id": "maze-project-c716b",
+    "storage_bucket": "maze-project-c716b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571284573687:android:91aae13814c3422c",
+        "android_client_info": {
+          "package_name": "com.Gytisdiln.projectmaze"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2k6_hi5Prg0c9WyVL5__k3zXjoFyifRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571284573687-pv8fl67sahkillo9jma87rfrnvhrgfv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
